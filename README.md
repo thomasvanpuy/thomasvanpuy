@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasvanpuy
-- 👀 I’m interested in data science, sales, customer service, geography, economics, travels, cycling, cars, music, and many other things.
+- 👀 I’m interested in data science, sales, customer service, geography, economics, travels, cycling...
 - 🌱 I’m currently learning Data Science through Coursera and IBM Skills Network. 
 - 📫 How to reach me: tvanpuy@gmail.com
 
